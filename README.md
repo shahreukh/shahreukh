@@ -17,7 +17,7 @@ With over five years of experience, I specialize in designing, developing, and m
 - Agile methodologies, software design, and aeronautics
 
 ### 📫 How to reach me
-- shahreukh@gmail.com(mailto:shahreukh@gmail.com)
+- [shahreukh@gmail.com](mailto:shahreukh@gmail.com)
 
 ### 🛠 Technical Skills
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
